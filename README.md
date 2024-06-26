@@ -6,10 +6,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 <center>
-- <p align="center">
+- Feel Free to Contact us with various options.<p align="center">
  <a href="mailto:anurag987verma@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="50" style="vertical-align:top; margin:6px"></a>
 </p>
-</center>
+</center>what an irony
 - ## 🧰 Languages and Tools:
 <center>
 <p align="center">
