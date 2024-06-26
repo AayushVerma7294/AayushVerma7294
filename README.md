@@ -20,6 +20,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML 5 </a>
 </p></center>
+<b>github@aayush></b> sudo apt-get install github_
 
 <!---
 AayushVerma7294/AayushVerma7294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
