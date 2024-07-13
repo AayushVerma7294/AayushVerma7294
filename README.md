@@ -7,7 +7,7 @@
 - ⚡ Fun fact:
 <center>
  <style>.body
- {background-color🐈‍⬛;
+ {background-color:black;
  }</style>
 - Feel Free to Contact us with various options.<p align="center">
  <a href="mailto:anurag987verma@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="50" style="vertical-align:top; margin:6px"></a>
