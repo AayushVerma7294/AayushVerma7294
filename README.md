@@ -6,6 +6,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 <center>
+ <style>.body
+ {background-color🐈‍⬛;
+ }</style>
 - Feel Free to Contact us with various options.<p align="center">
  <a href="mailto:anurag987verma@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="50" style="vertical-align:top; margin:6px"></a>
 </p>
@@ -20,7 +23,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML 5 </a>
 </p></center>
-<b>github@aayush></b> sudo apt-get install github|
+<b>github@aayush></b> sudo apt-get install git|
 
 <!---
 AayushVerma7294/AayushVerma7294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
