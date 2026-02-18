@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AayushVerma7294
-- 👀 I’m interested in Programming, Gaming , Music
+- 👀 I’m interested in Programming, Music
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ???
+- 💞️ I’m looking to collaborate with experienced developer to learn new things.
 - 📫 How to reach me anyway except on Social Media
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
