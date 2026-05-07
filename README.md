@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AayushVerma7294
-- 👀 I’m interested in Programming, Music
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate with experienced developer to learn new things.
 - 📫 How to reach me anyway except on Social Media
