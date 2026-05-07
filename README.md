@@ -11,7 +11,6 @@
 </p>
 </center>
 - ## 🧰 Languages and Tools:
-<center>
 <p align="center">
 <a href ="https://www.python.org/">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">Python </a> 
@@ -19,7 +18,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>Java </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML 5 </a>
-</p></center>
+</p>
 <b>github@aayush></b> sudo apt-get install git_
 <!---
 AayushVerma7294/AayushVerma7294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
